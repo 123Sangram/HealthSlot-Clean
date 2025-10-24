@@ -532,7 +532,11 @@ const fetchAppointmentData = async () => {
                              </p>
                         </div>
                         </div>
-                        {/* Place your full JSX for QR, Card, UPI, and Summary inside this div */}
+
+
+
+
+                        
                     </div>
                 )}
             </div>
